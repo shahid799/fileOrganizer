@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.NullPointerException
+	at Main$LinkedList.oddEven(Main.java:318)
+	at Main.main(Main.java:340)
